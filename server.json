@@ -1,0 +1,28 @@
+{
+  "transactions":[
+    {
+      "id": 1,
+      "description": "Est dolore id nisi eu laboris ut quis proident quis commodo sint anim nisi voluptate.",
+      "type": "income",
+      "category": "vendas",
+      "price": 6000,
+      "created_at":"2023-07-13T13:21:10.281Z"
+    },
+    {
+      "id": 2,
+      "description": "Aute sint eu mollit occaecat laboris reprehenderit est amet aliquip enim.",
+      "type": "income",
+      "category": "jogos",
+      "price": 4000,
+      "created_at":"2023-07-13T13:21:10.281Z"
+    },
+    {
+      "id": 3,
+      "description": "Mollit tempor labore laboris consectetur reprehenderit ea ut do cupidatat aliquip voluptate amet.",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 8000,
+      "created_at":"2023-07-13T13:21:10.281Z"
+    }
+  ]
+}
