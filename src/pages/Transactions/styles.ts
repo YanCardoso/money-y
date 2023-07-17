@@ -23,7 +23,6 @@ export const TransactionsTable = styled.table`
 
 		&:nth-child(2) {
 			white-space: nowrap;
-			background-color: red;
 		}
 
 		&:last-child {
